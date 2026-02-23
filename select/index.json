@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "月が綺麗だって",
+  "base_artist": "berry meet",
+  "createdAt": "2026-02-23T16:00:37.190649Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月が綺麗だって - Tonight's Moon",
+      "artist": "berry meet",
+      "has_synced": true,
+      "path": "select/01_月が綺麗だって_-_Tonight's_Moon_berry_meet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月が綺麗だって",
+      "artist": "berry meet",
+      "has_synced": true,
+      "path": "select/02_月が綺麗だって_berry_meet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月が綺麗だって",
+      "artist": "berry meet",
+      "has_synced": false,
+      "path": "select/pl_01_月が綺麗だって_berry_meet.txt"
+    }
+  ]
+}
